@@ -1,3 +1,532 @@
 {
-  "products": []
+  "slider": [
+    {
+      "id": "1",
+      "image": "https://onemg.gumlet.io/3a5d9aa3-4b44-4f92-affe-2261cfa288fd_1661248108.jpg?w=899&h=200&format=auto"
+    },
+    {
+      "id": "2",
+      "image": "https://onemg.gumlet.io/a_ignore,w_899,h_200,c_fit,q_auto,f_auto/2047487d-1bfb-4316-b35f-3ac87cba9668.png"
+    },
+    {
+      "id": "3",
+      "image": "https://onemg.gumlet.io/a_ignore,w_899,h_200,c_fit,q_auto,f_auto/eynhkhgh6x2z3lrfibod.png"
+    },
+    {
+      "id": "4",
+      "image": "https://onemg.gumlet.io/d57644ad-4455-42f9-9396-03b58c1d0fea_1662616269.png?w=899&h=200&format=auto"
+    }
+  ],
+  "coreplan": {
+    "id": 1,
+    "image": "https://onemg.gumlet.io/a_ignore,w_480,h_200,c_fit,q_auto,f_auto/caed0541-bf51-4c8b-838e-934fa2ad82eb.png"
+  },
+  "popularcategory": [
+    {
+      "id": 1,
+      "category": "Diabetes Care",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/nnz4wznqh3g1momlj7i6.png"
+    },
+    {
+      "id": 2,
+      "category": ">Nutritional Drinks",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/f5ia7m5vbslwnysrnouz.png"
+    },
+    {
+      "id": 3,
+      "category": "Healthcare Devices",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/yom4kujhcrmswwa7yqql.png"
+    },
+    {
+      "id": 4,
+      "category": "Homeopathy",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/sjjktxvuqn3hgdf1zthz.png"
+    },
+    {
+      "id": 5,
+      "category": "Sexual Wellness",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/mxhslzet9tgwmmginf0x.png"
+    },
+    {
+      "id": 6,
+      "category": "Skin Care",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/he8w8sxhmm2la752zjt2.png"
+    },
+    {
+      "id": 7,
+      "category": "Vitamins & Supplements",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/xph6jwm1rkm53jytua1e.png"
+    },
+    {
+      "id": 8,
+      "category": "Pain Relief",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/wxg1pt1dugbbmqk2hfhu.png"
+    },
+    {
+      "id": 9,
+      "category": "Ayurveda",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/bihah6g7bf8dgwbbe3hc.png"
+    }
+  ],
+  "featuredbrand": [
+    {
+      "id": 1,
+      "category": "Veet",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/83191a9e-18f2-4eef-9118-b3caa90e4590.png"
+    },
+    {
+      "id": 2,
+      "category": "Colgate",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/9fd34e54-f6a3-4f15-916c-07ca0e6a94a8.png"
+    },
+    {
+      "id": 3,
+      "category": "Zandu",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/db5371fa-b446-4e04-b342-5044a9f1ad2f.png"
+    },
+    {
+      "id": 4,
+      "category": "Protinex",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/21dcb5bd-a5d1-4ce6-932a-f5bb376a23fe.png"
+    },
+    {
+      "id": 5,
+      "category": "mCaffeine",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/3630d9e4-0e2f-4be7-b1ba-0d0674ddd736.png"
+    },
+    {
+      "id": 6,
+      "category": "Medteh",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/33efbce4-e766-48cf-a3f3-e710da832c7c.png"
+    },
+    {
+      "id": 7,
+      "category": "Contour",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/0ce2c32d-22ae-4a4f-8e1c-e615e13bee66.png"
+    }
+  ],
+  "topseller": [
+    {
+      "id": 1,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/d8c5f966d7da452c9b81c742474d45b6.jpg",
+      "title": "Ensure Vanilla Powder Refill",
+      "status": "box of 1 kg Powder",
+      "strike": "₹300",
+      "off": "6% off",
+      "price": "₹272"
+    },
+    {
+      "id": 2,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/822a9692e491406d9addcb95003115cd.jpg",
+      "title": "Ensure Chocolate Powder Refill",
+      "status": "box of 400 gm Powder",
+      "strike": "₹675",
+      "off": "7% off",
+      "price": "₹600"
+    },
+    {
+      "id": 3,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e9wq9lditpjyyedleyqa.jpg",
+      "title": "box of 400 gm Powder Powder Chocolate",
+      "status": "box of 400 gm Powder",
+      "strike": "₹680",
+      "off": "6% off",
+      "price": "₹639"
+    },
+    {
+      "id": 4,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/rzk6dsfxjzr2cwnjrdlp.jpg",
+      "title": "Ensure Plus Vanilla Refill",
+      "status": "jar of 1 kg Powder",
+      "strike": "₹1420",
+      "off": "5% off",
+      "price": "₹1349"
+    },
+    {
+      "id": 5,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/3bb583c0e1bc462293c3fc35bd8477ea.jpg",
+      "title": "Ensure Vanilla Powder Refill",
+      "status": "box of 400 gm Powder",
+      "strike": "₹615",
+      "off": "5% off",
+      "price": "₹584"
+    },
+    {
+      "id": 6,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/tiidy63h42v68x6qnx4d.jpg",
+      "title": "Ensure Vanilla Powder Refill",
+      "status": "box of 400 gm Powder",
+      "strike": "₹710",
+      "off": "11% off",
+      "price": "₹632"
+    },
+    {
+      "id": 7,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/uv3wagnasob4pv7o5uh9.jpg",
+      "title": "Ensure High Protein Powder Vanilla",
+      "status": "box of 400gm Powder",
+      "strike": "₹680",
+      "off": "6% off",
+      "price": "₹634"
+    }
+  ],
+  "shopbyhealth": [
+    {
+      "id": 1,
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/e3katuw3w1qdfiv0cbjn.png",
+      "category": "Diabetes Care"
+    },
+    {
+      "id": 2,
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/bal76mxxccyhrti2erkn.png",
+      "category": "Cardiac Care"
+    },
+    {
+      "id": 3,
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/l2zrxcsfyguccggnkp4m.png",
+      "category": "Stomach Care"
+    },
+    {
+      "id": 4,
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/klrkvhzloqbyt6z8cvgv.png",
+      "category": "Liver Care"
+    },
+    {
+      "id": 5,
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/zd1jcixlqcmxlxlmgitc.png",
+      "category": "Bone, Joint & Muscle Care"
+    },
+    {
+      "id": 6,
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/c0o3w8wdjnzesk2pshcr.png",
+      "category": "Kidney Care"
+    },
+    {
+      "id": 7,
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/vsyneobahnsdqzllvzuv.png",
+      "category": "Pain Relief"
+    },
+    {
+      "id": 8,
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/wgixpbxnlrd79lzhpsi3.png",
+      "category": "Respiratory Care"
+    },
+    {
+      "id": 9,
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/laztovaqkws3bo1ywff0.png",
+      "category": "Eye Care"
+    }
+  ],
+  "combodeals": [
+    {
+      "id": 1,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qb28shpydallvrjqumup.jpg",
+      "title": "Pain Relief Combo of Healthtokri Electric...",
+      "status": "combo pack of 2 packs",
+      "strike": "₹820",
+      "off": "42% off",
+      "price": "₹470"
+    },
+    {
+      "id": 2,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qdkxnbhl24dgn02m7fc4.jpg",
+      "title": "Anti-oxidants Combo of Organic I",
+      "status": "combo pack of 2 packs",
+      "strike": "₹669",
+      "off": "7% off",
+      "price": "₹545"
+    },
+    {
+      "id": 3,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/uca5jm0uqfqpjoyydzh0.jpg",
+      "title": "Tata 1mg Diabetes Care Combo Pack fo...",
+      "status": "pack of 4 bottles",
+      "strike": "₹1580",
+      "off": "58% off",
+      "price": "₹663"
+    },
+    {
+      "id": 4,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/kig1l1egf5xcijweblix.jpg",
+      "title": "Durex Pleasure pack (Extra Time Condo...",
+      "status": "combo pack of 2 packs",
+      "strike": "₹989",
+      "off": "22% off",
+      "price": "₹764"
+    },
+    {
+      "id": 5,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/pfqnfyojsqwtn6hrce32.jpg",
+      "title": "Ensure Vanilla Powder Refill",
+      "status": "combo pack of 2 bottles",
+      "strike": "combo pack of 2 bottles",
+      "off": "53% off",
+      "price": "₹204"
+    },
+    {
+      "id": 6,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/tamf9xnrq7ncapgc04t6.jpg",
+      "title": "Tata 1mg Women Care combo Pack for Dail...",
+      "status": "combo pack of 4 bottles",
+      "strike": "₹1695",
+      "off": "51% off",
+      "price": "₹819"
+    },
+    {
+      "id": 7,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qir6i2zlhzeddxa4mqt0.jpg",
+      "title": "Immunity Care Combo Of 1mg Panch Tulsi...",
+      "status": "combo pack of 2 packs",
+      "strike": "₹335",
+      "off": "21% off",
+      "price": "₹265"
+    },
+    {
+      "id": 8,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/f9fbe0c6e4ae496c8876affeb25590a0.jpg",
+      "title": "Combo Pack of HealthKart HK Vitals...",
+      "status": "box of 2 Combo packs",
+      "strike": "₹1349",
+      "off": "43% off",
+      "price": "₹768"
+    },
+    {
+      "id": 9,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hkivk33molknvlppjtkg.jpg",
+      "title": "Revital Combo Pack of Revital H 30 Capsul...",
+      "status": "Combo pack of packs",
+      "strike": "₹870",
+      "off": "10% off",
+      "price": "₹603"
+    },
+    {
+      "id": 10,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c2sw0gi2dw4cwdf1ecjp.jpg",
+      "title": "Accu-Chek Combo Pack of Active 50 Te...",
+      "status": "combo pack of 3 units",
+      "strike": "₹1290",
+      "off": "12% off",
+      "price": "₹1141"
+    },
+    {
+      "id": 11,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cr9a2p0evnuzwvw5ksp1.jpg",
+      "title": "Acne Care Combo of Cetaphil Oily Skin...",
+      "status": "combo pack of 2 Packs",
+      "strike": "₹820",
+      "off": "16% off",
+      "price": "₹687"
+    },
+    {
+      "id": 12,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/elqz2hzfzkt4dy105wyl.jpg",
+      "title": "Combo Pack of Sri Sri Tattva Shakti Drop...",
+      "status": "combo pack of 2 bottles",
+      "strike": "₹445",
+      "off": "52% off",
+      "price": "₹213"
+    },
+    {
+      "id": 13,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/dqrcisvemf943pxdlbkk.jpg",
+      "title": "Tata 1mg Weight Management Comb...",
+      "status": "combo pack of 4 bottles",
+      "strike": "₹1560",
+      "off": "52% off",
+      "price": "₹748"
+    },
+    {
+      "id": 14,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qutzgli859zoj0lfcoix.jpg",
+      "title": "Tata 1mg Elderly Care Combo for Eye &...",
+      "status": "combo pack of 4 bottles",
+      "strike": "₹1975",
+      "off": "65% off",
+      "price": "₹858"
+    }
+  ],
+  "spotlight": [
+    {
+      "id": 1,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/rodhh7c6rq7bdzkrwzct.jpg",
+      "title": "Dabar Organic Honey",
+      "status": "jar of 300 gm Paste",
+      "strike": "₹669",
+      "off": "7% off",
+      "price": "₹545"
+    },
+    {
+      "id": 2,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/94a8244e920d46ab86a1018bf8a6e7e7.jpg",
+      "title": "Kapiva Diafree Juice",
+      "status": "bottle of 1 Ltr Juice",
+      "strike": "₹820",
+      "off": "42% off",
+      "price": "₹470"
+    },
+    {
+      "id": 3,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/a5ois8zpmzqzjvsd8n42.jpg",
+      "title": "Pain Relief Combo of Healthtokri Electric...",
+      "status": "combo pack of 2 packs",
+      "strike": "₹920",
+      "off": "42% off",
+      "price": "₹470"
+    },
+    {
+      "id": 4,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/vbwb445sjztpxvgxfogv.jpg",
+      "title": "Anti-oxidants Combo of Organic I",
+      "status": "combo pack of 2 packs",
+      "strike": "₹820",
+      "off": "42% off",
+      "price": "₹545"
+    },
+    {
+      "id": 5,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ppwnefzgjo7by2vt6qxp.jpg",
+      "title": "Tata 1mg Diabetes Care Combo Pack fo...",
+      "status": "combo pack of 4 bottles",
+      "strike": "₹720",
+      "off": "32% off",
+      "price": "₹563"
+    },
+    {
+      "id": 6,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/tcefdajhcg4mms94uywf.jpg",
+      "title": "Durex Pleasure pack (Extra Time Condo...",
+      "status": "combo pack of 2 packs",
+      "strike": "₹720",
+      "off": "12% off",
+      "price": "₹664"
+    },
+    {
+      "id": 7,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/rgfime0rzlrv0pljx3wm.jpg",
+      "title": "Ensure Vanilla Powder Refill",
+      "status": "combo pack of 2 bottles",
+      "strike": "₹920",
+      "off": "62% off",
+      "price": "₹204"
+    },
+    {
+      "id": 8,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/tiidy63h42v68x6qnx4d.jpg",
+      "title": "Tata 1mg Women Care combo Pack for Dail...",
+      "status": "combo pack of 4 bottles",
+      "strike": "₹520",
+      "off": "22% off",
+      "price": "₹419"
+    },
+    {
+      "id": 9,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/xn1ju0ffqdyuj5w9ou2b.jpg",
+      "title": "Immunity Care Combo Of 1mg Panch Tulsi...",
+      "status": "combo pack of 2 packs",
+      "strike": "₹820",
+      "off": "50% off",
+      "price": "₹465"
+    },
+    {
+      "id": 10,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/kkjgqmpgejvp6bpj3t1j.jpg",
+      "title": "Combo Pack of HealthKart HK Vitals...",
+      "status": "box of 2 Combo packs",
+      "strike": "₹820",
+      "off": "40% off",
+      "price": "₹568"
+    }
+  ],
+  "trendingnow": [
+    {
+      "id": 1,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/eb0faa81e9734271bd4e2753cae19788.jpg",
+      "title": "Tata 1mg Compressor Nebulizer",
+      "status": "box of 1 unit",
+      "strike": "₹1630",
+      "off": "13% off",
+      "price": "₹1419"
+    },
+    {
+      "id": 2,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/sebt72otrs6a2gnqfpcb.jpg",
+      "title": "Protinex Health and Nutritional Drink Tast..",
+      "status": "Tin of 250 gm Powder",
+      "strike": "₹399",
+      "off": "7% off",
+      "price": "₹371"
+    },
+    {
+      "id": 3,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/bpgstknem0udqzp9p4dm.jpg",
+      "title": "Sugar Free Gold Low Caloris Sweetener",
+      "status": "bottle of 500 pellets",
+      "strike": "₹285",
+      "off": "5% off",
+      "price": "₹271"
+    },
+    {
+      "id": 4,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/40bf2549bd364ee28d65860850ee1e6f.jpg",
+      "title": "Tata 1mg Tejasya Triphala Capsule...",
+      "status": "bottle of 60 capsules",
+      "strike": "₹345",
+      "off": "52% off",
+      "price": "₹166"
+    },
+    {
+      "id": 5,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/wb4ndsavl7ixslwyohbi.jpg",
+      "title": "Vicks Vaporub",
+      "status": "bottle of 50gm Balm",
+      "strike": "₹155",
+      "off": "6% off",
+      "price": "₹145"
+    },
+    {
+      "id": 6,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/r33qnfrme9xfozrw5gwk.jpg",
+      "title": "Perfectil Skin, Hair, Nail Supplement Tablet",
+      "status": "strip of 30 tablet",
+      "strike": "₹625",
+      "off": "30% off",
+      "price": "₹438"
+    },
+    {
+      "id": 7,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ibcufhk27uqhpgy9kfcg.jpg",
+      "title": "Zincovit Tablet",
+      "status": "strip of 15 tablets",
+      "strike": "₹105",
+      "off": "14% off",
+      "price": "₹90"
+    },
+    {
+      "id": 8,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/huamtvxifr3gyeeg0rrg.jpg",
+      "title": "Supradyn Daily Multivitamin Tablet wi...",
+      "status": "strip of 15 tablets",
+      "strike": "₹54.9",
+      "off": "7% off",
+      "price": "₹51"
+    },
+    {
+      "id": 9,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vku1bgimm9wicwhrhbma.jpg",
+      "title": "Cofsils Lozenges Orange",
+      "status": "trip of 10 lozenges",
+      "strike": "₹30",
+      "off": "10% off",
+      "price": "₹27"
+    },
+    {
+      "id": 10,
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hruygy5lw0ivyqenv9ev.jpg",
+      "title": "Seacod Cod Liver Oil Capsule",
+      "status": "bottle of 110 soft gelatin...",
+      "strike": "₹352.98",
+      "off": "20% off",
+      "price": "₹282"
+    }
+  ]
 }
