@@ -537,7 +537,7 @@
       "title": "Centrum Men | Supports Overall Health (Veg) | World's No.1 Multivitamin",
       "discount": 8,
       "price": 461,
-      "rating":4.4,
+      "rating":4,
       "category":"vitamins"
     },
     {
@@ -546,7 +546,7 @@
       "title": "RawRX Organic Calcium and Vitamin D3 Tablet with Vitamin C, Magnesium and Zinc for Bone Health & Joint Pain",
       "discount": 20,
       "price": 594,
-      "rating":4.5,
+      "rating":5,
       "category":"vitamins"
     },
     {
@@ -555,7 +555,7 @@
       "title": "Dr. Morepen Multi Vitamin Men with Omega 3 & Herbs, Natural Energy & Immunity Booster Tablet",
       "discount": 40,
       "price": 599,
-      "rating":4.2,
+      "rating":2,
       "category":"vitamins"
     },
     {
@@ -564,7 +564,7 @@
       "title": "Shelcal XT Tablet",
       "discount": 15,
       "price": 352,
-      "rating":4.5,
+      "rating":5,
       "category":"vitamins"
     },
     {
@@ -573,7 +573,7 @@
       "title": "New Follihair Tablet",
       "discount": 15%,
       "price": 536,
-      "rating":4.2,
+      "rating":2,
       "category":"vitamins"
     },
     {
@@ -582,7 +582,7 @@
       "title": "Beplex Forte Tablet",
       "discount": 16,
       "price": 36,
-      "rating":4.5,
+      "rating":1,
       "category":"vitamins"
     },
     {
@@ -591,7 +591,7 @@
       "title": "Tata 1mg Senior 50+ Multivitamin & Multimineral Veg Tablet,Strength & Overall Health",
       "discount": 56,
       "price": 387,
-      "rating":4.4,
+      "rating":4,
       "category":"vitamins"
     },
     {
@@ -600,7 +600,7 @@
       "title": "MGD3 Tablet",
       "discount": 15,
       "price": 208,
-      "rating":4.6,
+      "rating":5,
       "category":"vitamins"
     },
     {
@@ -609,7 +609,7 @@
       "title": "Supradyn Immuno+ Multivitamin Tablet with Natural Ingredients",
       "discount": 13,
       "price": 235,
-      "rating":4.5,
+      "rating":4,
       "category":"vitamins"
     },
     {
@@ -618,7 +618,7 @@
       "title": "Revital H for Woman Tablet with Multivitamins",
       "discount": 11,
       "price": 320,
-      "rating":4.1,
+      "rating":1,
       "category":"vitamins"
     },
     {
@@ -627,7 +627,7 @@
       "title": "Supradyn Daily Multivitamin Tablet with Essential Zinc",
       "discount": 12,
       "price": 48,
-      "rating":4.3,
+      "rating":4,
       "category":"vitamins"
     },
     {
@@ -636,7 +636,7 @@
       "title": "Protinex Health and Nutritional Drink Tasty Chocolate",
       "discount": 13,
       "price": 565,
-      "rating":4.4,
+      "rating":3,
       "category":"nutrition"
     },
     {
@@ -645,7 +645,7 @@
       "title": "Cadbury Bournvita Health Drink Refill",
       "discount": 8,
       "price": 769,
-      "rating":4.3,
+      "rating":4,
       "category":"nutrition"
     },
     {
@@ -654,7 +654,7 @@
       "title": "MuscleBlaze MB 18g Protein Shake (200ml Each) Chocolate",
       "discount": 17,
       "price":599,
-      "rating":4.0,
+      "rating":1,
       "category":"nutrition"
     },
     {
@@ -663,7 +663,7 @@
       "title": "Celevida Kesar Elaichi Nutrition Health Drink",
       "discount": 15,
       "price": 645,
-      "rating":4.5,
+      "rating":4,
       "category":"nutrition"
     },
     {
@@ -672,7 +672,7 @@
       "title": "Complan Nutrition and Health Drink Royale Chocolate Refill",
       "discount": 5,
       "price": 290,
-      "rating":4.4,
+      "rating":5,
       "category":"nutrition"
     },
     {
@@ -681,7 +681,7 @@
       "title": "Horlicks Health and Nutrition Drink Classic Malt",
       "discount": 5,
       "price": 289,
-      "rating":4.6,
+      "rating":1,
       "category":"nutrition"
     },
     {
@@ -690,7 +690,7 @@
       "title": "Nestle Resource High Protein Powder",
       "discount": 7,
       "price": 900,
-      "rating":4.3,
+      "rating":4,
       "category":"nutrition"
     },
     {
@@ -699,7 +699,7 @@
       "title": "Ensure Vanilla Powder Refill",
       "discount": 5,
       "price": 1484,
-      "rating":4.5,
+      "rating":2,
       "category":"nutrition"
     },
     {
@@ -708,7 +708,7 @@
       "title": "PediaSure Kids Nutrition Drink with Arginine",
       "discount": 18,
       "price": 1350,
-      "rating":4.4,
+      "rating":1,
       "category":"nutrition"
     },
     {
@@ -717,7 +717,7 @@
       "title": "Groviva Powder Chocolate",
       "discount": 12,
       "price": 598,
-      "rating":4.6,
+      "rating":3,
       "category":"nutrition"
     },
     {
@@ -726,7 +726,7 @@
       "title": "Dettol Original Bathing Soap Bar 125gm",
       "discount": 3,
       "price": 312,
-      "rating":4.5,
+      "rating":5,
       "category":"personalCare"
     },
     {
@@ -735,7 +735,7 @@
       "title": "Cetaphil Moisturising Lotion",
       "discount": 12,
       "price": 1144,
-      "rating":4.7,
+      "rating":1,
       "category":"personalCare"
     },
     {
@@ -744,7 +744,7 @@
       "title": "Johnson's Baby Oil with Vitamin E",
       "discount": 1,
       "price": 118,
-      "rating":4.4,
+      "rating":2,
       "category":"personalCare"
     },
     {
@@ -753,7 +753,7 @@
       "title": "Tata 1mg Adult Diaper Tape Style Large",
       "discount": 43,
       "price": 299,
-      "rating":4.3,
+      "rating":3,
       "category":"personalCare"
     },
     {
@@ -762,7 +762,7 @@
       "title": "mCaffeine Naked & Raw Coffee Moisturizer Latte",
       "discount": 20,
       "price": 359,
-      "rating":4.2,
+      "rating":4,
       "category":"personalCare"
     },
     {
@@ -771,7 +771,7 @@
       "title": "Ahaglow Advanced Skin Rejuvenating Face Wash",
       "discount": 14,
       "price": 611,
-      "rating":4.4,
+      "rating":5,
       "category":"personalCare"
     },
     {
@@ -780,7 +780,7 @@
       "title": "Acne Care Combo of Cetaphil Oily Skin...",
       "discount": 15,
       "price": 744,
-      "rating":4.5,
+      "rating":1,
       "category":"personalCare"
     },
     {
@@ -789,7 +789,7 @@
       "title": "Veet Half Body Waxing Kit for Normal Skin",
       "discount": 3,
       "price": 105,
-      "rating":4.0,
+      "rating":2,
       "category":"personalCare"
     },
     {
@@ -798,7 +798,7 @@
       "title": "Johnson's Baby Soap",
       "discount": 2,
       "price": 76,
-      "rating":4.5,
+      "rating":3,
       "category":"personalCare"
     },
     {
@@ -807,7 +807,7 @@
       "title": "Scalpe+ Expert Anti Dandruff Shampoo",
       "discount": 10,
       "price": 252,
-      "rating":4.3,
+      "rating":4,
       "category":"personalCare"
     },
     {
@@ -816,7 +816,7 @@
       "title": "Patanjali Divya Chandraprabha Vati",
       "discount": 12,
       "price": 125,
-      "rating":4.4,
+      "rating":5,
       "category":"personalCare"
     },
     {
@@ -825,7 +825,7 @@
       "title": "Boroplus Soft Antiseptic Cream",
       "discount": 16,
       "price": 258,
-      "rating":4.4,
+      "rating":1,
       "category":"skinCare"
     },
     {
@@ -834,7 +834,7 @@
       "title": "Foxtale Vit-A-Lity Retinol Night Serum",
       "discount":10,
       "price": 539,
-      "rating":4.0,
+      "rating":2,
       "category":"skinCare"
     },
     {
@@ -843,7 +843,7 @@
       "title": "Bioderma Atoderm Intensive Baume Ultra-Soothing Balm",
       "discount": 9,
       "price": 1375,
-      "rating":4.1,
+      "rating":3,
       "category":"skinCare"
     },
     {
@@ -852,7 +852,7 @@
       "title": "Boroline Cream",
       "discount": 11,
       "price": 42,
-      "rating":4.7,
+      "rating":4,
       "category":"skinCare"
     },
     {
@@ -861,7 +861,7 @@
       "title": "Cetaphil Gentle Skin Cleanser Dry to Normal, Sensitive Skin",
       "discount": 12,
       "price": 1096,
-      "rating":4.5,
+      "rating":5,
       "category":"skinCare"
     },
     {
@@ -870,7 +870,7 @@
       "title": "Nivea Nourishing Lotion Body",
       "discount": 25,
       "price": 343,
-      "rating":4.5,
+      "rating":1,
       "category":"skinCare"
     },
     {
@@ -879,7 +879,7 @@
       "title": "Venusia Moisturizing Cream",
       "discount": 15,
       "price": 373,
-      "rating":4.5,
+      "rating":2,
       "category":"skinCare"
     },
     {
@@ -888,7 +888,7 @@
       "title": "Boroplus Soft Antiseptic Cream",
       "discount": 16,
       "price": 258,
-      "rating":4.4,
+      "rating":3,
       "category":"skinCare"
     },
     {
@@ -897,7 +897,7 @@
       "title": "Lacto Calamine Oil Balance Lotion for Oily Skin",
       "discount": 11,
       "price": 214,
-      "rating":4.4,
+      "rating":4,
       "category":"skinCare"
     },
     {
@@ -906,7 +906,7 @@
       "title": "Vaseline Intensive Care Body Deep Moisture Lotion",
       "discount": 10,
       "price": 338,
-      "rating":4.5,
+      "rating":5,
       "category":"skinCare"
     },
     {
@@ -915,7 +915,7 @@
       "title": "Zandu Kesari Jivan Chyawanprash",
       "discount": 22,
       "price": 612,
-      "rating":4.4,
+      "rating":1,
       "category":"ayurveda"
     },
     {
@@ -924,7 +924,7 @@
       "title": "Dabur Badam Tail",
       "discount": 21,
       "price": 329,
-      "rating":4.3,
+      "rating":2,
       "category":"ayurveda"
     },
     {
@@ -933,7 +933,7 @@
       "title": "Himalaya Neem & Turmeric Soap",
       "discount": 13,
       "price": 51,
-      "rating":4.4,
+      "rating":3,
       "category":"ayurveda"
     },
     {
@@ -942,7 +942,7 @@
       "title": "Zandu Pure Honey",
       "discount": 27,
       "price": 343,
-      "rating":4.5,
+      "rating":4,
       "category":"ayurveda"
     },
     {
@@ -951,7 +951,7 @@
       "title": "Kesh King Scalp and Hair Medicine Ayurvedic Oil",
       "discount": 17,
       "price": 290,
-      "rating":4.4,
+      "rating":5,
       "category":"ayurveda"
     },
     {
@@ -960,7 +960,7 @@
       "title": "Dabur Hajmola Imli",
       "discount": 3,
       "price": 58,
-      "rating":4.5,
+      "rating":1,
       "category":"ayurveda"
     },
     {
@@ -969,7 +969,7 @@
       "title": "Himalaya Wellness Pure Herbs Ashvagandha Tablet",
       "discount": 17,
       "price": 165,
-      "rating":4.4,
+      "rating":2,
       "category":"ayurveda"
     },
     {
@@ -978,7 +978,7 @@
       "title": "Eno Fruit Salt Sachet (5gm Each) Lemon",
       "discount": 5,
       "price": 51,
-      "rating":4.6,
+      "rating":3,
       "category":"ayurveda"
     },
     {
@@ -987,7 +987,7 @@
       "title": "Patanjali Divya Mukta Vati Extra Power",
       "discount": 8,
       "price": 225,
-      "rating":4.5,
+      "rating":5,
       "category":"ayurveda"
     },
     {
@@ -996,7 +996,7 @@
       "title": "Himalaya Gasex Tablet",
       "discount": 17,
       "price": 133,
-      "rating":4.4,
+      "rating":4,
       "category":"ayurveda"
     }
 
