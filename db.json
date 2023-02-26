@@ -529,478 +529,566 @@
       "price": "₹282"
     }
   ],
-
-  "products":[
+  "products": [
     {
-      "id":1,
+      "id": 1,
       "image": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/acc13a0749ba48c7a4275e795067bafb/centrum-men-supports-overall-health-veg-world-s-no.1-multivitamin.jpg",
       "title": "Centrum Men | Supports Overall Health (Veg) | World's No.1 Multivitamin",
       "discount": 8,
       "price": 461,
-      "rating":4,
-      "category":"vitamins"
+      "rating": 4,
+      "category": "vitamins"
     },
     {
-      "id":2,
+      "id": 2,
       "image": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/93888e0c67d44eae916513bf464e1e6a/rawrx-organic-calcium-and-vitamin-d3-tablet-with-vitamin-c-magnesium-and-zinc-for-bone-health-joint-pain.jpg",
       "title": "RawRX Organic Calcium and Vitamin D3 Tablet with Vitamin C, Magnesium and Zinc for Bone Health & Joint Pain",
       "discount": 20,
       "price": 594,
-      "rating":5,
-      "category":"vitamins"
+      "rating": 5,
+      "category": "vitamins"
     },
     {
-      "id":3,
+      "id": 3,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,w_150,f_auto,c_fit/aywb3kusfcv1tnyyt8qy/dr.-morepen-multi-vitamin-men-with-omega-3-herbs-natural-energy-immunity-booster-tablet.jpg",
       "title": "Dr. Morepen Multi Vitamin Men with Omega 3 & Herbs, Natural Energy & Immunity Booster Tablet",
       "discount": 40,
       "price": 599,
-      "rating":2,
-      "category":"vitamins"
+      "rating": 2,
+      "category": "vitamins"
     },
     {
-      "id":4,
+      "id": 4,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,w_150,f_auto,c_fit/bizvzrubbwwofrm9jvaf/shelcal-xt-tablet.jpg",
       "title": "Shelcal XT Tablet",
       "discount": 15,
       "price": 352,
-      "rating":5,
-      "category":"vitamins"
+      "rating": 5,
+      "category": "vitamins"
     },
     {
-      "id":5,
+      "id": 5,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,w_150,f_auto,c_fit/cropped/yho9zbsqs1yqgsmlq5fs/new-follihair-tablet.jpg",
       "title": "New Follihair Tablet",
       "discount": 15,
       "price": 536,
-      "rating":2,
-      "category":"vitamins"
+      "rating": 2,
+      "category": "vitamins"
     },
     {
-      "id":6,
+      "id": 6,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,w_150,f_auto,c_fit/cropped/dkeyr8at70ac3ugg2tbm/beplex-forte-tablet.jpg",
       "title": "Beplex Forte Tablet",
       "discount": 16,
       "price": 36,
-      "rating":1,
-      "category":"vitamins"
+      "rating": 1,
+      "category": "vitamins"
     },
     {
-      "id":7,
+      "id": 7,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,w_150,f_auto,c_fit/klpj2khvaphkvpqmchui/tata-1mg-senior-50-multivitamin-multimineral-veg-tablet-with-zinc-vitamin-c-calcium-and-vitamin-d-supports-immunity-strength-overall-health.jpg",
       "title": "Tata 1mg Senior 50+ Multivitamin & Multimineral Veg Tablet,Strength & Overall Health",
       "discount": 56,
       "price": 387,
-      "rating":4,
-      "category":"vitamins"
+      "rating": 4,
+      "category": "vitamins"
     },
     {
-      "id":8,
+      "id": 8,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,w_150,f_auto,c_fit/cropped/ea1m0uwysn2miqdtvmtg/mgd3-tablet.jpg",
       "title": "MGD3 Tablet",
       "discount": 15,
       "price": 208,
-      "rating":5,
-      "category":"vitamins"
+      "rating": 5,
+      "category": "vitamins"
     },
     {
-      "id":9,
+      "id": 9,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,w_150,f_auto,c_fit/7ae4a691ed0f429aa95797c6af1067b2/supradyn-immuno-multivitamin-tablet-with-natural-ingredients.jpg",
       "title": "Supradyn Immuno+ Multivitamin Tablet with Natural Ingredients",
       "discount": 13,
       "price": 235,
-      "rating":4,
-      "category":"vitamins"
+      "rating": 4,
+      "category": "vitamins"
     },
     {
-      "id":10,
+      "id": 10,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,w_150,f_auto,c_fit/xqljyyelnecasglguvf6/revital-h-for-woman-tablet-with-multivitamins-calcium-zinc-natural-ginseng-for-daily-immunity-strong-bones-and-enhances-energy-level.jpg",
       "title": "Revital H for Woman Tablet with Multivitamins",
       "discount": 11,
       "price": 320,
-      "rating":1,
-      "category":"vitamins"
+      "rating": 1,
+      "category": "vitamins"
     },
     {
-      "id":11,
+      "id": 11,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,w_150,f_auto,c_fit/zaoniru9woncxf4acu5z/supradyn-daily-multivitamin-tablet-with-essential-zinc-12-vitamins-5-trace-elements-for-daily-immunity-energy.jpg",
       "title": "Supradyn Daily Multivitamin Tablet with Essential Zinc",
       "discount": 12,
       "price": 48,
-      "rating":4,
-      "category":"vitamins"
+      "rating": 4,
+      "category": "vitamins"
     },
     {
-      "id":12,
+      "id": 12,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/wkmxonjuot7skrmdoxxx/protinex-health-and-nutritional-drink-tasty-chocolate.jpg",
       "title": "Protinex Health and Nutritional Drink Tasty Chocolate",
       "discount": 13,
       "price": 565,
-      "rating":3,
-      "category":"nutrition"
+      "rating": 3,
+      "category": "nutrition"
     },
     {
-      "id":13,
+      "id": 13,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/087c6695fcf143ff9197a80fe635dc27/cadbury-bournvita-health-drink-refill.jpg",
       "title": "Cadbury Bournvita Health Drink Refill",
       "discount": 8,
       "price": 769,
-      "rating":4,
-      "category":"nutrition"
+      "rating": 4,
+      "category": "nutrition"
     },
     {
-      "id":14,
+      "id": 14,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/wpdxutvlagpl45u30j09/muscleblaze-mb-18g-protein-shake-200ml-each-chocolate.jpg",
       "title": "MuscleBlaze MB 18g Protein Shake (200ml Each) Chocolate",
       "discount": 17,
-      "price":599,
-      "rating":1,
-      "category":"nutrition"
+      "price": 599,
+      "rating": 1,
+      "category": "nutrition"
     },
     {
-      "id":15,
+      "id": 15,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/48f5e3bcd3ff4ba5942f5039dd1b2019/celevida-kesar-elaichi-nutrition-health-drink.jpg",
       "title": "Celevida Kesar Elaichi Nutrition Health Drink",
       "discount": 15,
       "price": 645,
-      "rating":4,
-      "category":"nutrition"
+      "rating": 4,
+      "category": "nutrition"
     },
     {
-      "id":16,
+      "id": 16,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/r0jiwwt9v5meopd4jbdq/complan-nutrition-and-health-drink-royale-chocolate-refill.jpg",
       "title": "Complan Nutrition and Health Drink Royale Chocolate Refill",
       "discount": 5,
       "price": 290,
-      "rating":5,
-      "category":"nutrition"
+      "rating": 5,
+      "category": "nutrition"
     },
     {
-      "id":17,
+      "id": 17,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/c4umsblj9pxya8gaanyk/horlicks-health-and-nutrition-drink-classic-malt.jpg",
       "title": "Horlicks Health and Nutrition Drink Classic Malt",
       "discount": 5,
       "price": 289,
-      "rating":1,
-      "category":"nutrition"
+      "rating": 1,
+      "category": "nutrition"
     },
     {
-      "id":18,
+      "id": 18,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/etzruyuyxztitkhvggwe/nestle-resource-high-protein-powder-vanilla-rich-in-immuno-nutrients.jpg",
       "title": "Nestle Resource High Protein Powder",
       "discount": 7,
       "price": 900,
-      "rating":4,
-      "category":"nutrition"
+      "rating": 4,
+      "category": "nutrition"
     },
     {
-      "id":19,
+      "id": 19,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/d8c5f966d7da452c9b81c742474d45b6/ensure-vanilla-powder-refill.jpg",
       "title": "Ensure Vanilla Powder Refill",
       "discount": 5,
       "price": 1484,
-      "rating":2,
-      "category":"nutrition"
+      "rating": 2,
+      "category": "nutrition"
     },
     {
-      "id":20,
+      "id": 20,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/orfyvvjd1nkaoyimmgzf/pediasure-kids-nutrition-drink-with-arginine-natural-vitamin-k2-premium-chocolate.jpg",
       "title": "PediaSure Kids Nutrition Drink with Arginine",
       "discount": 18,
       "price": 1350,
-      "rating":1,
-      "category":"nutrition"
+      "rating": 1,
+      "category": "nutrition"
     },
     {
-      "id":21,
+      "id": 21,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/c9d197304dab421d85f5c59dd20a8916/groviva-powder-chocolate.jpg",
       "title": "Groviva Powder Chocolate",
       "discount": 12,
       "price": 598,
-      "rating":3,
-      "category":"nutrition"
+      "rating": 3,
+      "category": "nutrition"
     },
     {
-      "id":22,
+      "id": 22,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/peqt9rbamkoiajvdpew9/dettol-original-bathing-soap-bar-125gm-each-buy-4-get-1-free.jpg",
       "title": "Dettol Original Bathing Soap Bar 125gm",
       "discount": 3,
       "price": 312,
-      "rating":5,
-      "category":"personalCare"
+      "rating": 5,
+      "category": "personalCare"
     },
     {
-      "id":23,
+      "id": 23,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/pfsw40uxtwiqugqykjs2/cetaphil-moisturising-lotion-normal-to-combination-sensitive-skin.jpg",
       "title": "Cetaphil Moisturising Lotion",
       "discount": 12,
       "price": 1144,
-      "rating":1,
-      "category":"personalCare"
+      "rating": 1,
+      "category": "personalCare"
     },
     {
-      "id":24,
+      "id": 24,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/cropped/ygkgyjx91mxciyzyd4gr/johnson-s-baby-oil-with-vitamin-e.jpg",
       "title": "Johnson's Baby Oil with Vitamin E",
       "discount": 1,
       "price": 118,
-      "rating":2,
-      "category":"personalCare"
+      "rating": 2,
+      "category": "personalCare"
     },
     {
-      "id":25,
+      "id": 25,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/5297c0f348fa4ae9a9ccd033646e32a2/tata-1mg-adult-diaper-tape-style-large.jpg",
       "title": "Tata 1mg Adult Diaper Tape Style Large",
       "discount": 43,
       "price": 299,
-      "rating":3,
-      "category":"personalCare"
+      "rating": 3,
+      "category": "personalCare"
     },
     {
-      "id":26,
+      "id": 26,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/uehvduys5dnmoqpln9sc/mcaffeine-naked-raw-coffee-moisturizer-latte.jpg",
       "title": "mCaffeine Naked & Raw Coffee Moisturizer Latte",
       "discount": 20,
       "price": 359,
-      "rating":4,
-      "category":"personalCare"
+      "rating": 4,
+      "category": "personalCare"
     },
     {
-      "id":27,
+      "id": 27,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/tmcl9ndskbiezitxdy5y/ahaglow-advanced-skin-rejuvenating-face-wash.jpg",
       "title": "Ahaglow Advanced Skin Rejuvenating Face Wash",
       "discount": 14,
       "price": 611,
-      "rating":5,
-      "category":"personalCare"
+      "rating": 5,
+      "category": "personalCare"
     },
     {
-      "id":28,
+      "id": 28,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/cropped/ssrskanx9lem2qasxi5a/acne-uv-gel-spf-50.jpg",
       "title": "Acne Care Combo of Cetaphil Oily Skin...",
       "discount": 15,
       "price": 744,
-      "rating":1,
-      "category":"personalCare"
+      "rating": 1,
+      "category": "personalCare"
     },
     {
-      "id":29,
+      "id": 29,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/e895a147fef744808f826d952e36ff50/veet-half-body-waxing-kit-for-normal-skin.jpg",
       "title": "Veet Half Body Waxing Kit for Normal Skin",
       "discount": 3,
       "price": 105,
-      "rating":2,
-      "category":"personalCare"
+      "rating": 2,
+      "category": "personalCare"
     },
     {
-      "id":30,
+      "id": 30,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/cropped/afklhgyiqbogo6ea3sqe/johnson-s-baby-soap.jpg",
       "title": "Johnson's Baby Soap",
       "discount": 2,
       "price": 76,
-      "rating":3,
-      "category":"personalCare"
+      "rating": 3,
+      "category": "personalCare"
     },
     {
-      "id":31,
+      "id": 31,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/tri1qxerh611gi5u6gdv/scalpe-expert-anti-dandruff-shampoo.jpg",
       "title": "Scalpe+ Expert Anti Dandruff Shampoo",
       "discount": 10,
       "price": 252,
-      "rating":4,
-      "category":"personalCare"
+      "rating": 4,
+      "category": "personalCare"
     },
     {
-      "id":32,
+      "id": 32,
       "image": "https://onemg.gumlet.io/images/q_auto,h_150,f_auto,w_150,c_fit/hyec0piaazpo4xhbd6qs/patanjali-divya-chandraprabha-vati.jpg",
       "title": "Patanjali Divya Chandraprabha Vati",
       "discount": 12,
       "price": 125,
-      "rating":5,
-      "category":"personalCare"
+      "rating": 5,
+      "category": "personalCare"
     },
     {
-      "id":33,
+      "id": 33,
       "image": "https://onemg.gumlet.io/images/f_auto,q_auto,c_fit,h_150,w_150/aoxa9hpjewlpv831rwai/boroplus-soft-antiseptic-cream.jpg",
       "title": "Boroplus Soft Antiseptic Cream",
       "discount": 16,
       "price": 258,
-      "rating":1,
-      "category":"skinCare"
+      "rating": 1,
+      "category": "skinCare"
     },
     {
-      "id":34,
+      "id": 34,
       "image": "https://onemg.gumlet.io/images/f_auto,q_auto,c_fit,h_150,w_150/c297f45738954173adf150b7807142f4/foxtale-vit-a-lity-retinol-night-serum.jpg",
       "title": "Foxtale Vit-A-Lity Retinol Night Serum",
-      "discount":10,
+      "discount": 10,
       "price": 539,
-      "rating":2,
-      "category":"skinCare"
+      "rating": 2,
+      "category": "skinCare"
     },
     {
-      "id":35,
+      "id": 35,
       "image": "https://onemg.gumlet.io/images/f_auto,q_auto,c_fit,h_150,w_150/b8b64c7d29664c97a886444f8648cd20/bioderma-atoderm-intensive-baume-ultra-soothing-balm.jpg",
       "title": "Bioderma Atoderm Intensive Baume Ultra-Soothing Balm",
       "discount": 9,
       "price": 1375,
-      "rating":3,
-      "category":"skinCare"
+      "rating": 3,
+      "category": "skinCare"
     },
     {
-      "id":36,
+      "id": 36,
       "image": "https://onemg.gumlet.io/images/f_auto,q_auto,c_fit,h_150,w_150/cropped/kgbk3tvgjvcgjmqws6cp/boroline-cream.jpg",
       "title": "Boroline Cream",
       "discount": 11,
       "price": 42,
-      "rating":4,
-      "category":"skinCare"
+      "rating": 4,
+      "category": "skinCare"
     },
     {
-      "id":37,
+      "id": 37,
       "image": "https://onemg.gumlet.io/images/f_auto,q_auto,c_fit,h_150,w_150/uhhnh0i8zxkpwqg0hoer/cetaphil-gentle-skin-cleanser-dry-to-normal-sensitive-skin.jpg",
       "title": "Cetaphil Gentle Skin Cleanser Dry to Normal, Sensitive Skin",
       "discount": 12,
       "price": 1096,
-      "rating":5,
-      "category":"skinCare"
+      "rating": 5,
+      "category": "skinCare"
     },
     {
-      "id":38,
+      "id": 38,
       "image": "https://onemg.gumlet.io/images/w_150,f_auto,q_auto,c_fit,h_150/8c210c37b650479bb16166efad44f699/nivea-nourishing-lotion-body-milk-5-in-1-complete-care-for-dry-to-very-dry-skin.jpg",
       "title": "Nivea Nourishing Lotion Body",
       "discount": 25,
       "price": 343,
-      "rating":1,
-      "category":"skinCare"
+      "rating": 1,
+      "category": "skinCare"
     },
     {
-      "id":39,
+      "id": 39,
       "image": "https://onemg.gumlet.io/images/w_150,f_auto,q_auto,c_fit,h_150/ae90b905c47a477bace19df9e6ed3ce5/venusia-moisturizing-cream.jpg",
       "title": "Venusia Moisturizing Cream",
       "discount": 15,
       "price": 373,
-      "rating":2,
-      "category":"skinCare"
+      "rating": 2,
+      "category": "skinCare"
     },
     {
-      "id":40,
+      "id": 40,
       "image": "https://onemg.gumlet.io/images/w_150,f_auto,q_auto,c_fit,h_150/aoxa9hpjewlpv831rwai/boroplus-soft-antiseptic-cream.jpg",
       "title": "Boroplus Soft Antiseptic Cream",
       "discount": 16,
       "price": 258,
-      "rating":3,
-      "category":"skinCare"
+      "rating": 3,
+      "category": "skinCare"
     },
     {
-      "id":41,
+      "id": 41,
       "image": "https://onemg.gumlet.io/images/w_150,f_auto,q_auto,c_fit,h_150/rflk06bodrte0gzbuyy2/lacto-calamine-oil-balance-lotion-for-oily-skin.jpg",
       "title": "Lacto Calamine Oil Balance Lotion for Oily Skin",
       "discount": 11,
       "price": 214,
-      "rating":4,
-      "category":"skinCare"
+      "rating": 4,
+      "category": "skinCare"
     },
     {
-      "id":42,
+      "id": 42,
       "image": "https://onemg.gumlet.io/images/w_150,f_auto,q_auto,c_fit,h_150/061d1bd1ccff41a7bb6c575166985a61/vaseline-intensive-care-body-deep-moisture-lotion.jpg",
       "title": "Vaseline Intensive Care Body Deep Moisture Lotion",
       "discount": 10,
       "price": 338,
-      "rating":5,
-      "category":"skinCare"
+      "rating": 5,
+      "category": "skinCare"
     },
     {
-      "id":43,
+      "id": 43,
       "image": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/roq4nzjspyh7uxgeamp0/zandu-kesari-jivan-chyawanprash.jpg",
       "title": "Zandu Kesari Jivan Chyawanprash",
       "discount": 22,
       "price": 612,
-      "rating":1,
-      "category":"ayurveda"
+      "rating": 1,
+      "category": "ayurveda"
     },
     {
-      "id":44,
+      "id": 44,
       "image": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/dwjatzvquh10ofpocncb/dabur-badam-tail.jpg",
       "title": "Dabur Badam Tail",
       "discount": 21,
       "price": 329,
-      "rating":2,
-      "category":"ayurveda"
+      "rating": 2,
+      "category": "ayurveda"
     },
     {
-      "id":45,
+      "id": 45,
       "image": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/8b05e7d4-9f78-480a-bff8-bc8267f8a56e/himalaya-neem-turmeric-soap.jpeg",
       "title": "Himalaya Neem & Turmeric Soap",
       "discount": 13,
       "price": 51,
-      "rating":3,
-      "category":"ayurveda"
+      "rating": 3,
+      "category": "ayurveda"
     },
     {
-      "id":46,
+      "id": 46,
       "image": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/e12e8fe489c849319a950c517c7961bb/zandu-pure-honey.jpg",
       "title": "Zandu Pure Honey",
       "discount": 27,
       "price": 343,
-      "rating":4,
-      "category":"ayurveda"
+      "rating": 4,
+      "category": "ayurveda"
     },
     {
-      "id":47,
+      "id": 47,
       "image": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/wn4exxufme7zazvtwnvu/kesh-king-scalp-and-hair-medicine-ayurvedic-oil.jpg",
       "title": "Kesh King Scalp and Hair Medicine Ayurvedic Oil",
       "discount": 17,
       "price": 290,
-      "rating":5,
-      "category":"ayurveda"
+      "rating": 5,
+      "category": "ayurveda"
     },
     {
-      "id":48,
+      "id": 48,
       "image": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/noekunzlypna6hkheoft/dabur-hajmola-imli.jpg",
       "title": "Dabur Hajmola Imli",
       "discount": 3,
       "price": 58,
-      "rating":1,
-      "category":"ayurveda"
+      "rating": 1,
+      "category": "ayurveda"
     },
     {
-      "id":49,
+      "id": 49,
       "image": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/6899a560a7494e3894f7b2261ce40dfd/himalaya-wellness-pure-herbs-ashvagandha-tablet.jpg",
       "title": "Himalaya Wellness Pure Herbs Ashvagandha Tablet",
       "discount": 17,
       "price": 165,
-      "rating":2,
-      "category":"ayurveda"
+      "rating": 2,
+      "category": "ayurveda"
     },
     {
-      "id":50,
+      "id": 50,
       "image": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/tbkyiz7loubcytnaye4r/eno-fruit-salt-sachet-5gm-each-lemon.jpg",
       "title": "Eno Fruit Salt Sachet (5gm Each) Lemon",
       "discount": 5,
       "price": 51,
-      "rating":3,
-      "category":"ayurveda"
+      "rating": 3,
+      "category": "ayurveda"
     },
     {
-      "id":51,
+      "id": 51,
       "image": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/fydlrpkf2udtiwkli49e/patanjali-divya-mukta-vati-extra-power.jpg",
       "title": "Patanjali Divya Mukta Vati Extra Power",
       "discount": 8,
       "price": 225,
-      "rating":5,
-      "category":"ayurveda"
+      "rating": 5,
+      "category": "ayurveda"
     },
     {
-      "id":52,
+      "id": 52,
       "image": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/cropped/khlk0or7gybqxtycxlyc/himalaya-gasex-tablet.jpg",
       "title": "Himalaya Gasex Tablet",
       "discount": 17,
       "price": 133,
-      "rating":4,
-      "category":"ayurveda"
+      "rating": 4,
+      "category": "ayurveda"
     }
-
-
-
+  ],
+  "medicines": [
+    {
+      "id": 1,
+      "img": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/xswkrt80bodw5wod0dxt/zingavita-omega-3-multivitamins-soft-gelatin-capsule.jpg",
+      "name": "Zingavita Omega 3 + Multivitamins Soft Gelatin Capsule",
+      "description": "Zingavita Omega 3 + Multivitamins Soft Gelatin Capsule is a scientifically formulated combination of omega 3 and multivitamins. Taking two pills a day is cumbersome, and no one likes it. These capsules help support the brain, joint, muscle and heart health, energy and immunity."
+    },
+    {
+      "id": 2,
+      "img": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/5a34b45b7f284dd5ae17710100f5b0fa/power-gummies-hair-nail-vitamins-with-biotin.jpg",
+      "name": "Power Gummies - Hair & Nail Vitamins with Biotin",
+      "description": "Power Gummies are tasty, chewable unisex vitamin dietary health supplements curated for adults. These help combat hair issues and enhance skin and nail health."
+    },
+    {
+      "id": 3,
+      "img": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/olumjmbboursowikpgh9/tata-1mg-vitamin-b-complex-capsules.jpg",
+      "name": "Tata 1mg Vitamin B Complex Capsules",
+      "description": "Tata 1mg Vitamin B complex is a health supplement which helps to provide relief from common vitamin B deficiencies such as fatigue, tiredness, low energy, numbness, burning sensation, etc."
+    },
+    {
+      "id": 4,
+      "img": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/93888e0c67d44eae916513bf464e1e6a/rawrx-organic-calcium-and-vitamin-d3-tablet-with-vitamin-c-magnesium-and-zinc-for-bone-health-joint-pain.jpg",
+      "name": "RawRX Organic Calcium and Vitamin D3 Tablet",
+      "description": "RawRX Organic Calcium and Vitamin D3 Tablet for Men & Women with Vitamin C, Coral Calcium Tablet for Bone Health & Joint Pain is sourced from the superfood algae, sustainably harvested off the coast of South America."
+    },
+    {
+      "id": 5,
+      "img": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/ibcufhk27uqhpgy9kfcg/zincovit-tablet.jpg",
+      "name": "Zincovit Tablet",
+      "description": "Zincovit Tablet is a nutritional health supplement enriched with multivitamins and multi-minerals that are essential for the proper functioning of the heart and nervous system and also boost immunity."
+    },
+    {
+      "id": 6,
+      "img": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/seug8lsqoerrf3hv4pmh/tata-1mg-melatonin-10mg-vegetarian-capsule-for-calm-restful-sleep.jpg",
+      "name": "Tata 1mg Melatonin 10mg Vegetarian Capsule for Calm & Restful Sleep",
+      "description": "Tata 1mg Melatonin Capsules contain Tagar (Valerian), L-theanine, Chamomile and other natural herbs with vitamin B6. It is beneficial for calm and restful sleep and regulates the sleep-wake cycle."
+    },
+    {
+      "id": 7,
+      "img": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/xqljyyelnecasglguvf6/revital-h-for-woman-tablet-with-multivitamins-calcium-zinc-natural-ginseng-for-daily-immunity-strong-bones-and-enhances-energy-level.jpg",
+      "name": "Revital H for Woman Tablet with Multivitamins, Calcium, Zinc & Natural Ginseng",
+      "description": "Revital H Woman Tablet is a combination of 12 vitamins, 18 minerals and ginseng that helps enhance mental and physical performance. It helps improve energy levels and boosts general health."
+    },
+    {
+      "id": 8,
+      "img": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/38b4ae16a8e04a29b3ef832d824a34bf/healthkart-hk-vitals-vitamin-d3-2000iu-softgel-capsule.jpg",
+      "name": "HealthKart HK Vitals Vitamin D3 2000IU Softgel Capsule",
+      "description": "HealthKart HK Vitals Vitamin D3 2000IU Softgel Capsule supplies this key nutrient in a highly absorbable form. These Vitamin D3 capsules (from the house of HealthKart) help in increasing muscle strength and getting stronger bones."
+    },
+    {
+      "id": 9,
+      "img": "https://onemg.gumlet.io/images/c_fit,h_150,f_auto,w_150,q_auto/qh1au45w8u7cfvf3lg3i/tata-1mg-women-s-multivitamin-veg-tablet-with-zinc-vitamin-c-calcium-vitamin-d-and-iron-support-immunity-bones-overall-health.jpg",
+      "name": "Tata 1mg Women's Multivitamin Veg Tablet with Zinc, Vitamin C",
+      "description": "Tata 1mg Women's Multivitamin, Zinc, Vitamin C, Calcium, Vitamin D, and Iron Immunity Booster Tablet is a health supplement that supports bone, skin, and eye health."
+    },
+    {
+      "id": 10,
+      "img": "https://onemg.gumlet.io/images/c_fit,f_auto,q_auto,w_150,h_150/cropped/ic22szqv5mq6pow4iqlu/keraglo-men-tablet.png",
+      "name": "Keraglo Men Tablet",
+      "description": "Keraglo Men Tablet contains gamma-linolenic acid, which is found mostly in plant-based oils such as barrage seed oil), multivitamins and multi-minerals."
+    },
+    {
+      "id": 11,
+      "img": "https://onemg.gumlet.io/images/c_fit,f_auto,q_auto,w_150,h_150/cropped/ea1m0uwysn2miqdtvmtg/mgd3-tablet.jpg",
+      "name": "MGD3 Tablet",
+      "description": "MGD3 Tablet is a nutritional supplement containing magnesium glycine complex and vitamin D3 that supports bone health. The tablet helps to strengthen the bones."
+    },
+    {
+      "id": 12,
+      "img": "https://onemg.gumlet.io/images/c_fit,f_auto,q_auto,w_150,h_150/cropped/c8woe34m3xmbo1qlpanl/homochek-capsule.jpg",
+      "name": "Homochek Capsule",
+      "description": "Homochek Capsule is a health supplement with vitamins B6, B9 and B12 that promotes cell metabolism and helps reduce homocysteine. Homocysteine is an amino acid linked with heart diseases, strokes and blood vessel disorders."
+    },
+    {
+      "id": 13,
+      "img": "https://onemg.gumlet.io/images/c_fit,f_auto,q_auto,w_150,h_150/7ae4a691ed0f429aa95797c6af1067b2/supradyn-immuno-multivitamin-tablet-with-natural-ingredients.jpg",
+      "name": "Supradyn Immuno+ Multivitamin Tablet with Natural Ingredients",
+      "description": "Supradyn Immuno+ Tablet with Natural Ingredients is a multivitamin supplement for men and women that contains a blend of natural ingredients and scientific formula."
+    },
+    {
+      "id": 14,
+      "img": "https://onemg.gumlet.io/images/q_auto,h_150,w_150,f_auto,c_fit/bb873216-e272-483e-8230-d7efd3a1896e/shelcal-500-tablet.jpeg",
+      "name": "Shelcal 500 Tablet",
+      "description": "Shelcal 500 Tablet is a vitamin supplement that can help build and maintain healthy bones. Calcium and vitamin D3 are essential for heart, muscle."
+    },
+    {
+      "id": 15,
+      "img": "https://onemg.gumlet.io/images/q_auto,h_150,w_150,f_auto,c_fit/c2da7f19ab63463c8d3a99dd29365795/tata-1mg-glucosamine-hcl-1500-mg-tablet-for-joint-health-with-boswellia-serrata-collagen-peptide-l-arginine-supports-in-building-cartilage-relieves-pain-inflammation-in-joints.jpg",
+      "name": "Tata 1mg Glucosamine HCL 1500 mg Tablet for Joint Health",
+      "description": "Tata 1mg Glucosamine HCL 1500 mg Tablets for Joint Health with Boswellia Serrata, Collagen Peptide, L-Arginine, and Curcuma Longa contains Glucosamine which is essential for building cartilage."
+    }
   ]
 }
